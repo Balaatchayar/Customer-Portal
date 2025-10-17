@@ -1,6 +1,6 @@
 # Customer Portal (SD + FI)
 
-A portal for customers to log in and see their sales transactions with the company – inquiries, sales orders, deliveries – and their financial records like invoices, payments, and credit/debit memos.
+A web-based Angular app integrating SAP SD & FI modules to manage customer data, view transactions, sales orders, delivery details, and financial statements. Provides a complete customer-business interaction overview.
 
 ## UI Frontend
 
